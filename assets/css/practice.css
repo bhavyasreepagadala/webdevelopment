@@ -1,0 +1,115 @@
+.top{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.main{
+    position: absolute;
+    top: 55px;
+    left: 500px;  
+}
+.main1{
+    position: absolute;
+    top: 55px;
+    left: 550px;  
+}
+.main2{
+    position: absolute;
+    top: 55px;
+    left: 600px;  
+}
+.main3{
+    position: absolute;
+    top: 55px;
+    left: 650px;  
+}
+.two{
+    position: absolute;
+    top: 80px;
+    left: 20px;  
+}
+.three{
+    position: absolute;
+    top: 80px;
+    left:130px;  
+}
+.four{
+    position: absolute;
+    top: 80px;
+    left: 200px;  
+}
+.five{
+    position: absolute;
+    top: 80px;
+    left: 300px;  
+}
+.six{
+    position: absolute;
+    top: 80px;
+    left: 440px;  
+}
+.seven{
+    position: absolute;
+    top: 80px;
+    left: 520px;  
+}
+.img{
+    position: absolute;
+    top: 120px;
+    left: 20px;  
+}
+.me{
+    position: absolute;
+    top: 340px ;
+    left: 20px;
+}
+.img1{
+    position: absolute;
+    top: 370px;
+    left: 380px;  
+}
+.img2{
+    position: absolute;
+    top: 370px;
+    left: 20px;  
+}
+.img3{
+    position: absolute;
+    top: 370px;
+    left: 200px;  
+}
+.img4{
+    position: absolute;
+    top: 370px;
+    left: 360px;  
+}
+.img5{
+    position: absolute;
+    top: 370px;
+    left: 520px;  
+}
+.img6{
+    position: absolute;
+    top: 550px;
+    left: 680px;  
+}
+.img7{
+    position: absolute;
+    top: 550px;
+    left: 840px;  
+}
+.img8{
+    position: absolute;
+    top: 550px;
+    left: 1000px;  
+}
+.img9{
+    position: absolute;
+    top: 550px;
+    left: 1160px;  
+}
+.img10{
+    position: absolute;
+    top: 550px;
+    left: 1320px;  
+}
